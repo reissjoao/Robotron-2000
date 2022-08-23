@@ -9,7 +9,7 @@
 }
 
 body {
-    background: url(../img/fundo.jpg);
+    background: url(../img/city-in-a-tornado-doomsday-scene-illustration.jpg);
     background-position: center center;
     background-size: cover cover;
     padding: 0;
@@ -147,8 +147,6 @@ main {
     background: var(--main-preto);
     color: var(--main-branco)
 }
-
-
 
 /****************************** Estatísticas *****/
 .estatisticas {
