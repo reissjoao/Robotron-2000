@@ -1,6 +1,6 @@
 # Robotron-2000
 
-![preview](./.github/preview.png)
+![preview](./.github/preview.png#vitrinedev)
 
 > - Alura em JavaScript: Manipulando o DOM 
 
